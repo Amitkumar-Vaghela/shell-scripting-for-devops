@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "First argument: $1"
+echo "Second argument: $2"
+echo "Total arguments: $#"
+
+
+Run:  ./arguments.sh AWS DevOps
